@@ -1,0 +1,8 @@
+atlas pass : pranto12803
+cluster
+user name : mursalin_ahmed
+pass : NsAJUCjQsZFmw0cN
+---------------
+new data base
+user name: mursalin_ahmed
+pass : M4sj58mG4ftQrpAo
